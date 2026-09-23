@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ridhima Dubey — Portfolio
 
 A React + Vite portfolio site: a photo-free hero with the portfolio name/role, about, skills,
@@ -42,3 +43,7 @@ or any static host.
 - **Content**: each section is its own file in `src/components/` — edit the text/data arrays
   directly (`Internships.jsx`, `Certifications.jsx`, `Projects.jsx`, etc.).
 - **Images**: certificate/internship images live in `public/images/`.
+=======
+# portridhi
+I'm a Computer Science Engineering student at Radharaman Engineering College (RGPV), building a strong foundation in programming, data structures, algorithms and database management alongside hands-on web development work.  
+>>>>>>> c8e563dc1bf86b634c57fb6be9952c0180555d92
